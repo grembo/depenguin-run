@@ -10,7 +10,6 @@ This is a list of confirmed working, or not working, dedicated server systems.
 * Hetzner AX41 (v0.0.6, 2022-08-10)
 * Hetzner AX101 (v0.0.10, 2023-01-27)
 * Hetzner AX162-R (v0.0.16, 2024-07-12)
-* Hetzner AX102 (v0.0.19, 2025-04-10)
 * OVH/Kimsufi KS-GAME-1 (v0.0.9, 2022-08-13)
 
 ### Full installation success (with extra steps)
@@ -18,6 +17,7 @@ This is a list of confirmed working, or not working, dedicated server systems.
 * Hetzner AX51-NVMe (v.0.0.10, 2022-08-24, ipv6-only) [Issue-10](https://github.com/depenguin-me/depenguin-run/issues/10)
 * Hetzner AX52 (v0.0.16, 2024-07-12, change NIC in rc.conf from em0 to igc0) [Issue-83](https://github.com/depenguin-me/depenguin-run/issues/83)
 * Hetzner AX101-NVMe (v0.0.15, 2024-02-13, change NIC in rc.conf from em0 to igb0)
+* Hetzner AX102(-NVMe) (v0.0.20, 2025-08-16, additions to loader.conf and sysctl.conf) [Issue-100](https://github.com/depenguin-me/depenguin-run/issues/100)
 * Hetzner EX43-NVMe (v.0.0.10, 2022-10-16, disable serial ports) [Issue-57](https://github.com/depenguin-me/depenguin-run/issues/57)
 * Hetzner EX44-NVMe (v.0.0.15, 2024-03-19, network driver from ports/pkgs) [Issue-79](https://github.com/depenguin-me/depenguin-run/issues/79)
 * Hetzner SB Intel Xeon E3-1275V6 (v 0.0.14, 2023-12-21, four disks used for mirror array)
